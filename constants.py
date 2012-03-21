@@ -1,0 +1,20 @@
+USE_FULLSCREEN								=	1
+RESX													=	800
+RESY													= 480
+
+COLOR_BLUE										=	(0, 0, 255)
+COLOR_GREEN										=	(0, 255, 0)
+COLOR_RED											=	(255, 0, 0)
+COLOR_WHITE										=	(255, 255, 255)
+COLOR_BLACK										=	(  0,   0,    0)
+
+WINDOW_BGCOLOR								=	(150, 150, 150)
+WINDOW_TITLE_BGCOLOR_ACTIVE		= (0, 0, 150)
+WINDOW_TITLE_BGCOLOR_INACTIVE	= (100, 100, 100)
+WINDOW_BORDER									=	2
+WINDOW_BORDERCOLOR						=	(200, 200, 200)
+
+BUTTON_COLOR									=	COLOR_BLACK
+BUTTON_BORDER									=	2
+
+TIME_INPUT										=	0.05
